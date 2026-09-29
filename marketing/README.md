@@ -11,6 +11,7 @@ Fale normalmente ou use a skill:
 ```
 /marketing registrar  <cole o texto, o print, o link do Drive ou o caminho do arquivo>
 /marketing status
+/marketing importar-whatsapp                     -> lê exportações em entradas/privado/whatsapp/ (sessão local)
 /marketing clientes   <pergunta ou arquivo>      -> agente leitor-de-clientes
 /marketing medir      <campanha, mês ou canal>   -> agente analista-de-alcance
 /marketing estrategia <tema>                     -> agente estrategista-de-comunicacao
@@ -44,6 +45,7 @@ Exemplos:
 | `briefings/cris/` | Planos semanais, checklists e mensagens para a Cris |
 | `briefings/luz-propria/` | Briefings de campanha, pautas de reunião, cobranças e feedback para a agência |
 | `modelos/` | Modelos que os agentes usam para gerar cada tipo de documento |
+| `ferramentas/` | Scripts de apoio (ex.: leitor de exportação do WhatsApp) |
 
 ## Ritmo sugerido
 

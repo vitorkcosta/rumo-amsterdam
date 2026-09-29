@@ -1,7 +1,7 @@
 ---
 name: marketing
 description: Marketing e prospecção do Chuveirão das Tintas. Use sempre que o Vitor falar de clientes, redes sociais, campanhas, ações nas lojas, mídia paga, Cris, Luz Própria, ChuvPontos, verba de marketing, ou trouxer qualquer dado, print, relatório ou recado sobre isso. Registra a entrada, atualiza a memória e aciona o agente certo.
-argument-hint: "[registrar|status|clientes|medir|estrategia|briefing-cris|briefing-agencia] <texto, arquivo ou link>"
+argument-hint: "[registrar|status|importar-whatsapp|clientes|medir|estrategia|briefing-cris|briefing-agencia] <texto, arquivo ou link>"
 ---
 
 # /marketing — porta de entrada do workspace
@@ -43,6 +43,26 @@ Sem acionar agente. Responder com:
   ou da Cris (ler `briefings/*/` e `decisoes.md`).
 - Próximos 30 dias do calendário (`canais-e-calendario.md`).
 - 3 ações recomendadas, cada uma com responsável.
+
+### importar-whatsapp
+Exportações de grupos do WhatsApp (agência, marketing interno) colocadas pelo Vitor em
+`marketing/entradas/privado/whatsapp/` (.txt ou .zip). Roda numa sessão no computador dele.
+1. Para cada arquivo: `python3 marketing/ferramentas/whatsapp_export.py <arquivo>`. Gera `.jsonl`
+   (uma mensagem por linha, telefones removidos) e `.resumo.md` na mesma pasta. Ler o resumo primeiro.
+2. Ler o `.jsonl` por mês (Bash/python), do mais recente para o mais antigo. Histórico grande: os últimos
+   6 meses em detalhe, o resto em passagem rápida.
+3. Escrever `marketing/entradas/AAAA-MM-DD-whatsapp-<grupo>.md` (grupo: `agencia` ou `mkt-interno`),
+   **só agregado**: período e volume; participantes por papel (agência: nome e função, como já está em
+   `contexto/equipe-e-parceiros.md`; internos: papel, ex. "gerente de Assis", sem sobrenome); linha do
+   tempo por mês com decisões, entregas, peças e campanhas, problemas recorrentes, pedidos sem resposta;
+   como cada grupo funciona (quem pede, quem aprova, tempo de resposta, tom). Nada de telefone, nome de
+   cliente, valor por vendedor. Até ~300 linhas por grupo.
+4. Atualizar `contexto/` com o que for durável (escopo real da agência, ritos, calendário executado,
+   canais em uso, custos citados) e `contexto/decisoes.md` com as decisões encontradas (fonte:
+   `whatsapp <grupo> AAAA-MM-DD`). Métricas citadas (alcance, cliques, cadastros, valores) vão para
+   `metricas/registro.csv` com fonte `whatsapp <grupo>`.
+5. Uma linha por grupo em `marketing/diario.md`. Depois, `status`.
+Os arquivos em `privado/` nunca entram no git; conferir com `git status` antes de commitar.
 
 ### clientes → agente `leitor-de-clientes`
 ### medir → agente `analista-de-alcance`
