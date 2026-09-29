@@ -1,3 +1,6 @@
 # Dados nominais / sensíveis de marketing: nunca sobem para o repositório (que é público).
 marketing/entradas/privado/*
 !marketing/entradas/privado/.gitkeep
+!marketing/entradas/privado/whatsapp/
+marketing/entradas/privado/whatsapp/*
+!marketing/entradas/privado/whatsapp/.gitkeep
