@@ -1,0 +1,21 @@
+data,periodo,canal,campanha,cidade,metrica,valor,unidade,fonte,observacao
+2026-09-29,2026-09,agencia,,todas,invest_fee,4000,brl,NF Luz Própria set/26 (Gmail),fee mensal de marketing
+2026-09-29,2026-09,agencia,,todas,invest_comissao,1125,brl,NF Luz Própria set/26 (Gmail),comissão de mídia
+2026-09-29,2026-08,agencia,,todas,invest_fee,4000,brl,NF Luz Própria ago/26 (Gmail),
+2026-09-29,2026-08,agencia,,todas,invest_comissao,1125,brl,NF Luz Própria ago/26 (Gmail),
+2026-09-29,2026-07,agencia,,todas,invest_fee,4000,brl,NF Luz Própria jul/26 (Gmail),
+2026-09-29,2026-07,agencia,,todas,invest_comissao,1125,brl,NF Luz Própria jul/26 (Gmail),
+2026-09-29,2026-06,agencia,,todas,invest_fee,4000,brl,NF Luz Própria jun/26 (Gmail),
+2026-09-29,2026-06,agencia,,todas,invest_comissao,1125,brl,NF Luz Própria jun/26 (Gmail),
+2026-09-29,2026-05,agencia,,todas,invest_comissao,1000,brl,NF Luz Própria mai/26 (Gmail),
+2026-09-29,2026-04,agencia,,todas,invest_comissao,1000,brl,NF Luz Própria abr/26 (Gmail),
+2026-09-29,2026-03,agencia,,todas,invest_comissao,1000,brl,NF Luz Própria mar/26 (Gmail),
+2026-09-29,2026-02,agencia,,todas,invest_comissao,1125,brl,NF Luz Própria fev/26 (Gmail),
+2026-09-29,2026-01,agencia,,todas,invest_comissao,1550,brl,NF Luz Própria jan/26 (Gmail),
+2026-09-29,2025-12,agencia,,todas,invest_comissao,1550,brl,NF Luz Própria dez/25 (Gmail),
+2026-09-29,2025-11,agencia,,todas,invest_comissao,1550,brl,NF Luz Própria nov/25 (Gmail),
+2026-09-29,2025-10,agencia,,todas,invest_comissao,1550,brl,NF Luz Própria out/25 (Gmail),
+2026-09-29,2025-09,agencia,,todas,invest_comissao,1550,brl,NF Luz Própria set/25 (Gmail),
+2026-09-29,2025-08,agencia,,todas,invest_comissao,1550,brl,NF Luz Própria ago/25 (Gmail),
+2026-09-29,2026-09,total,,todas,ticket_medio,369,brl,Painel Chuveirão 18/09 (Gmail),lojas SP 01 a 18/09
+2026-09-29,2026-09,total,,todas,conv_orc_venda,72,pct,Painel Chuveirão 18/09 (Gmail),lojas SP 01 a 18/09
