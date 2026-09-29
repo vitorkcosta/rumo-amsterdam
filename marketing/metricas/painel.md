@@ -45,7 +45,7 @@ Números: **medido** (M), **estimado** (E) ou **sem dado** (—). Fonte em `regi
 ### Ações e eventos
 | Ação | Data | Meta | Resultado | Status |
 |------|------|------|-----------|--------|
-| Festa dos pintores e das crianças | 10/10 (Araçatuba 17/10) | a definir: cadastros ChuvPontos, presentes, venda pintores 30 dias | | briefing pendente |
+| Festa dos pintores e das crianças | 10/10 (Araçatuba 17/10) | a definir: cadastros ChuvPontos, presentes, venda pintores 30 dias | | convite v1 em revisão (29/09); baseline de cadastros pendente |
 | Campanha de aniversário | out–nov | a definir por cidade | | briefing pendente |
 
 ### Agência (entrega do mês)

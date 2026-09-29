@@ -10,3 +10,4 @@ Uma linha por decisão. Status: proposta · aprovada · executada · cancelada.
 | 2026-09-29 | Exigir da Luz Própria relatório mensal até o dia 5, por cidade e campanha, com CSV do Meta e do Google. | agentes | diagnóstico inicial | proposta |
 | 2026-09-29 | Definir meta numérica por cidade para a campanha de aniversário (out/nov) antes de liberar os 2 × R$ 50 mil off. | agentes | diagnóstico inicial | proposta |
 | 2026-09-29 | Pedir acesso de leitura ao Meta Business e Google Ads para o Vitor. | agentes | diagnóstico inicial | proposta |
+| 2026-09-29 | Convite v1 da festa dos pintores não sai como está: uma versão por loja, QR do app, regra do sorteio, prêmio nomeado, hora de fim; acrescentar RSVP no WhatsApp e código PINTOR10 para medir. Checar SECAP para o sorteio. | agentes | briefings/cris/2026-09-29-convite-festa-pintores.md | proposta |

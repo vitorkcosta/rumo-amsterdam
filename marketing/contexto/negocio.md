@@ -15,7 +15,7 @@ usada nos conteúdos; PPG e Akzo aparecem no portfólio — **confirmar** quais 
 
 | Cidade | Loja | Código ERP | Observação |
 |--------|------|------------|------------|
-| Presidente Prudente/SP | Matriz | 001 (MAT) | sede |
+| Presidente Prudente/SP | Matriz | 001 (MAT) | sede; Av. Brasil, 325/347 **(confirmar: endereço usado no convite de 10/10)** |
 | Presidente Prudente/SP | Aquarela / CMC | 002 e 009 (CMC) | 009 migrou para 002 em set/2026; nome de fantasia **(confirmar)** |
 | Presidente Prudente/SP | Flag | 017 (FLAG) | unidade menor **(confirmar posicionamento)** |
 | Assis/SP | Assis | 004 (ASS) | |

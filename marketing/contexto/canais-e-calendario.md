@@ -56,6 +56,8 @@ profissionais (dia do pintor, dia do funileiro).
 - **10/10 (sáb)**: festa dos pintores e das crianças em todas as lojas; **Araçatuba em 17/10**.
   Sorteio exige app ChuvPontos instalado e cadastrado. Convite, vídeo do app e brindes vão às lojas
   (conferir até 06/10 com a Cris e os gerentes; quantos pintores já cadastrados).
+  A partir das 12h, no estacionamento da loja (Av. Brasil, 325/347 na v1 do convite; uma versão por
+  loja ainda não existe). Convite v1 recebido em 29/09; revisão em `briefings/cris/2026-09-29-convite-festa-pintores.md`.
 - **Out/Nov**: campanha de aniversário (50k off por mês no cronograma). Briefing e meta por cidade
   ainda não definidos aqui.
 - **01/10**: virada de preço (ICMS-ST). Comunicação única aos clientes a definir com comercial.

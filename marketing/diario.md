@@ -8,3 +8,5 @@ Formato: `AAAA-MM-DD | origem | resumo em uma frase | caminho`
 2026-09-29 | gmail | ChuvPontos gera CSV de ativos, inativos e nunca compraram (ago/2026, via contato@). Ainda não lidos. | marketing/contexto/fontes-de-dados.md
 2026-09-29 | cris | Festa dos pintores e das crianças 10/10 (Araçatuba 17/10); sorteio exige app ChuvPontos. | marketing/contexto/decisoes.md
 2026-09-29 | agentes | Diagnóstico inicial e plano dos primeiros 30 dias. | marketing/analises/2026-09-29-diagnostico-inicial.md
+2026-09-29 | cris | Convite v1 da festa dos pintores (10/10, 12h, estacionamento, sorteio via app) enviado no grupo para aprovação. Revisado: 5 correções + medição. | marketing/briefings/cris/2026-09-29-convite-festa-pintores.md
+2026-09-29 | vitor | Exportou as conversas do grupo da agência e do grupo de marketing interno (estão no computador dele; sessão na nuvem não alcança). Aguardando envio via Drive ou sessão local. | marketing/diario.md
