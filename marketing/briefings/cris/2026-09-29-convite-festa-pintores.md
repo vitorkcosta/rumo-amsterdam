@@ -55,7 +55,7 @@ para cavalete · uma versão por loja · story "como baixar o app" (a Cris disse
 ## Acompanhamento
 | Entregável | Responsável | Prazo | Status |
 |------------|-------------|-------|--------|
-| Definir prêmios, regra do sorteio, comida e horário de fim (+ checar SECAP com o Dr. André) | Cris | ter 30/09 | pendente |
+| Colocar na peça o que já está combinado (prêmios, comida, horário de fim) e checar SECAP com o Dr. André | Cris | ter 30/09 | verba e operação já alinhadas com o Vitor (29/09) |
 | Baseline de cadastros no app por loja | Cris | ter 30/09 | pendente |
 | Convite v2 com correções 1–5 e itens de medição | Luz Própria (via Cris) | qua 01/10 | pendente |
 | Versões por loja + stories + A5/A3 | Luz Própria | qui 02/10 | pendente |
@@ -63,12 +63,12 @@ para cavalete · uma versão por loja · story "como baixar o app" (a Cris disse
 | Conferência: convite, vídeo do app e brindes nas lojas; cadastros por loja | Cris | seg 06/10 | pendente (já combinado em 25/09) |
 
 ## Mensagem pronta (WhatsApp, para o Vitor só encaminhar)
-Cris, ficou bonito e está na cara do Chuveirão. Você toca a distribuição e o resto da operação (prêmios, comida, horários, versões, agência); me chama só se precisar de verba ou de decisão minha. Antes de soltar, ajusta com a Luz Própria:
+Cris, ficou bonito e está na cara do Chuveirão. Antes de soltar, ajusta com a Luz Própria:
 1. Uma versão por loja, com o endereço de cada uma (Araçatuba com 17/10). Do jeito que está, manda todo mundo pra Av. Brasil.
 2. QR code do app ChuvPontos do lado do "Para concorrer".
 3. Regra do sorteio: hora e "precisa estar presente e cadastrado no app".
-4. Nome do prêmio principal dos pintores. "Sorteio de prêmios" não puxa ninguém. Pras crianças, brinde garantido.
-5. Hora de fim e o que vai ter (almoço ou lanche? pintura pras crianças?). Se tem comida, tem que estar escrito.
+4. Nome do prêmio principal dos pintores no convite. Pras crianças, brinde garantido.
+5. Hora de fim e o que vai ter (comida, pintura pras crianças). O que já está combinado, escreve na peça.
 Pra gente medir depois: WhatsApp da loja pra confirmar presença, e o código PINTOR10 valendo 30 dias depois da festa. Anota hoje quantos cadastros o app tem por loja.
 Sobre o sorteio: confirma com o Dr. André se precisa de autorização (SECAP). Se der trabalho, troca por brinde garantido pra quem se cadastrar no app.
-Me manda por e-mail, com [MKT] no assunto: a v2 aprovada, a lista de prêmios e os cadastros por loja. O resto é com você.
+Depois me manda por e-mail, com [MKT] no assunto: a v2 aprovada, os cadastros por loja e o custo total do evento (brindes, comida, peças). O resto é com você.

@@ -11,3 +11,4 @@ Formato: `AAAA-MM-DD | origem | resumo em uma frase | caminho`
 2026-09-29 | cris | Convite v1 da festa dos pintores (10/10, 12h, estacionamento, sorteio via app) enviado no grupo para aprovação. Revisado: 5 correções + medição. | marketing/briefings/cris/2026-09-29-convite-festa-pintores.md
 2026-09-29 | vitor | Exportou as conversas do grupo da agência e do grupo de marketing interno (estão no computador dele; sessão na nuvem não alcança). Aguardando envio via Drive ou sessão local. | marketing/diario.md
 2026-09-29 | vitor | "Ela que se encarrega de soltar e etc, pra eu não ficar sobrecarregado": Cris dona da operação; mensagem do convite reescrita como repasse. | marketing/contexto/decisoes.md
+2026-09-29 | vitor | Verba e operação da festa já alinhadas com a Cris; mensagem do convite enxugada para só correções, medição e SECAP. | marketing/briefings/cris/2026-09-29-convite-festa-pintores.md
