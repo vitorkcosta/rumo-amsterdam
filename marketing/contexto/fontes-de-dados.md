@@ -27,6 +27,7 @@ Consulta genérica: `fullText contains 'Chuveirão' and title contains '<termo>'
 | Painel comercial do ERP (agente do Vitor) | `subject:"[Agente] Painel Chuveirão"` |
 | Briefing diário do Vitor (contém recados da Cris e decisões) | `subject:"[Agente] Briefing"` |
 | Recados de marketing internos | `Cris marketing` ou `festa dos pintores` |
+| **Entradas da Cris para o workspace** (convenção a partir de 29/09) | `subject:[MKT]` — ler primeiro em toda sessão; cada e-mail vira uma entrada |
 
 Anexos de e-mail: o conector lista `attachments` no `get_thread`; para ler o conteúdo, pedir ao Vitor
 para salvar no Drive ou colar aqui.

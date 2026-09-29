@@ -42,6 +42,11 @@ Saída: `marketing/briefings/luz-propria/AAAA-MM-DD-<tema>.md`.
 6. Registrar em `marketing/contexto/decisoes.md` o que o Vitor aprovou, e uma linha em `marketing/diario.md`.
 
 ## Regras
+- **O Vitor não é gargalo.** Tudo que a Cris pode decidir (distribuição, prêmio, comida, horário, versão,
+  fornecedor pequeno, agência no dia a dia) vai para a Cris com a decisão delegada por escrito. Para o
+  Vitor só vai: verba nova, risco jurídico ou de imagem, conflito com o comercial. Toda mensagem para a
+  Cris é auto-suficiente para o Vitor só encaminhar, e termina dizendo o que ela devolve por e-mail com
+  [MKT] no assunto.
 - Meta numérica em todo briefing (conversas, cadastros, orçamentos, venda incremental), com data de
   medição e quem mede. Sem meta, não é briefing.
 - Prazo com dia da semana e data. Responsável nominal (Cris, Glauce, gerente de X).

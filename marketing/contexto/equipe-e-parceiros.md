@@ -1,7 +1,9 @@
 # Equipe e parceiros
 
 ## Vitor Costa — direção (Grupo CMV)
-Decide verba, aprova campanhas, cobra resultado. Quer decisões prontas, com número, em português direto.
+Decide verba nova, risco (jurídico, imagem), conflito com o comercial e cobra resultado. **Não quer ser gargalo**:
+tudo que a Cris pode decidir vai para a Cris; o Vitor recebe um resumo semanal e só as decisões que
+exigem ele. Quer decisões prontas, com número, em português direto.
 Já usa agentes por e-mail ("[Agente] Briefing" e "[Agente] Painel Chuveirão"); os briefings de
 marketing devem caber nesse ritmo: curto, com responsável e prazo.
 
@@ -11,7 +13,11 @@ pintores e das crianças), convites, brindes, vídeo/cadastro do app ChuvPontos,
 (CPF e contato), material no PDV. É a ponte com a agência no dia a dia **(confirmar)** e a fonte de
 métrica de ponta (conversas no WhatsApp da loja, cadastros, cupons por ação). O e-mail
 contato@chuveiraodastintas.com.br envia os relatórios do ChuvPontos **(confirmar se é a Cris)**.
-O que ela precisa receber: lista curta de tarefas com prazo, critério de pronto e o dado que devolve.
+**Dona da operação de marketing** (decisão do Vitor em 29/09): distribuição de peças, prêmios, comida,
+horários, versões por loja, relacionamento diário com a agência. Decide sozinha o que não envolve verba
+nova nem risco. O que ela precisa receber: lista curta de tarefas com prazo, critério de pronto e o dado
+que devolve. Toda mensagem para ela é escrita para o Vitor só encaminhar.
+Canal com o workspace: e-mail para o Vitor com **[MKT]** no assunto (o agente lê direto do Gmail).
 
 ## Luz Própria — agência (luzpropria.com.br, região DDD 18)
 **Escopo contratado (observado nas NFs 2025–2026):**

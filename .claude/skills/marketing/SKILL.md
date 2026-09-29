@@ -69,7 +69,10 @@ e o que precisa dele (decisão ou dado). Não colar o arquivo inteiro na respost
 
 - Liderar com a resposta. Sem preâmbulo, sem repetir o pedido.
 - Número só quando muda a decisão, e em tabela curta.
-- Terminar sempre com "Preciso de você:" seguido de decisão ou dado, ou "nada".
+- Terminar sempre com "Preciso de você:" seguido de decisão ou dado, ou "nada". O Vitor não quer ser
+  gargalo: só entra ali verba nova, risco ou conflito com o comercial; o resto vai para a Cris, e a
+  mensagem para ela já sai pronta para encaminhar. Antes de tudo, ler no Gmail `subject:[MKT]` e
+  registrar o que a Cris mandou.
 - Nunca inventar métrica. Sem dado → "sem dado" + quem fornece, o quê, até quando.
 - Se o Vitor estiver errado (verba, prazo, expectativa de resultado), dizer na lata e propor o ajuste.
 - Commit ao final quando houver arquivo novo ou alterado: `marketing: <o que mudou>`.
